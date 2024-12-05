@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.env
+.my-php.ini
+docker-compose.yml
+libxl.ini
+my-php.ini
+crontab
+.htaccess
+.htpasswd
+local/s3sync
+
+src/supervisord.log
+src/supervisord.pid

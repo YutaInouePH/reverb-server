@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.my-php.ini
+docker-compose.yml
+libxl.ini
+my-php.ini
+crontab
+.htaccess
+.htpasswd
+local/s3sync

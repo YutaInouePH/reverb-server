@@ -1,0 +1,7 @@
+!.env
+!.htaccess
+!.htpasswd
+!docker-compose.yml
+!libxl.ini
+!my-php.ini
+!crontab
